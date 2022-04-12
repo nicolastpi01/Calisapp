@@ -1,5 +1,7 @@
 # Calisapp
 
-Repo front-end: https://github.com/CesarPZ/Calisapp-front-end
+Repositorio front-end: https://github.com/CesarPZ/Calisapp-front-end
 
-Repo back-end: https://github.com/CesarPZ/Calisapp-back-end
+Repositorio back-end: https://github.com/CesarPZ/Calisapp-back-end
+
+Trello: https://trello.com/b/0hdurYR3/calisapp-ttip
